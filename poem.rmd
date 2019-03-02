@@ -17,6 +17,7 @@ you, if you change any of this the git program will notice it and compromise you
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
 
+<<<<<<< HEAD
  
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
@@ -32,6 +33,11 @@ And be one traveler, long I stood
 And looked down one as far as I could
 
 To where it bent in the undergrowth; 
+=======
+## Second Verse
+<!--Put the first five lines of a poem by Robert Frost here!-->
+
+>>>>>>> verse3
 
 
 ## Third Verse

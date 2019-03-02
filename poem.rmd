@@ -14,16 +14,52 @@ Our project will be done using a sequence of save and commits and branch actions
 you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
 
 ## First Verse 
-<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->  
+One winter night, at half-past nine,
+
+Cold, tired, and cross, and muddy,
+
+I had come home, too late to dine,
+
+And supper, with cigars and wine,
+
+Was waiting in the study.
 
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+Whose woods these are I think I know.
+
+His house is in the village though;
+
+He will not see me stopping here
+
+To watch his woods fill up with snow.   
+
+
 
 
 ## Third Verse
-<!--Put the first two verses of The Walrus and the Carpenter here!-->
+<!--Put the first two verses of The Walrus and the Carpenter here!--> 
 
+Shining with all his might:
 
-## Third Verse
-<!--Put the first two verses of The Walrus and the Carpenter here!-->
+## Last Verse
+<!--Put a short poem of your choice 8-20 lines,here!-->
+
+“Will you walk a little faster?”
+
+said a whiting to a snail.
+
+“There’s a porpoise close behind us,
+
+and he’s treading on my tail.
+
+See how eagerly the lobsters and
+
+the turtles all advance!
+
+They are waiting on the shingle—
+
+will you come and join the dance?
+

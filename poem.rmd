@@ -20,7 +20,7 @@ you, if you change any of this the git program will notice it and compromise you
       The jaws that bite, the claws that catch! 
 
   Beware the Jubjub bird, and shun  
-      The frumious Bandersnatch!”
+      The frumious Bandersnatch!”  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
